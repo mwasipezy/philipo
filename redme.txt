@@ -1,0 +1,12 @@
+these files are part of my website that am working on, i have deployed it but still needs more changes
+check it out at www.culltek.com
+Its a website that deals with selling of IT Services and products mainly
+products include;
+  website development for both small enterprises and IT final year students' projects, desktop softwares mainly done in java and c# and 
+  programing assignments
+  
+  services include computer repare and maintainces etc.
+  
+  This is what am trying to achieve. website is already up but some functionalities are not complete feel free to vist the website
+  
+ 
